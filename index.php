@@ -22,7 +22,7 @@
                 <li><a href="veureSeccions.php" class="text-gray-900 hover:text-blue-500 text-lg font-semibold transition duration-200">Veure noticies amb link</a></li>
                 <li><a href="cercarNoticiesTitular.html" class="text-gray-900 hover:text-blue-500 text-lg font-semibold transition duration-200">Cercar Noticies per Titular</a></li>
                 <li><a href="cercarNoticiesData.html" class="text-gray-900 hover:text-blue-500 text-lg font-semibold transition duration-200">Cercar Noticies per Data</a></li>
-
+                <li><a href="cercarNoticiesTitularP.html" class="text-gray-900 hover:text-blue-500 text-lg font-semibold transition duration-200">Cercar Noticies per Titular (parcial)</a></li>
             </ul>
         </div>
     </nav>
